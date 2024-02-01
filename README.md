@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://luisotero00.github.io/Portafolio-Luis-Otero/](https://luisotero00.github.io/Portafolio-Luis-Otero/)
+- 👨‍💻 All of my projects are available at [https://luisotero00.github.io/Portfolio-Luis//)
 
 - 📫 How to reach me **luisoterousa00@gmail.com**
 
