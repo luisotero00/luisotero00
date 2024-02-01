@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Miguel Otero</h1>
 <h3 align="center">A passionate frontend developer from colombia</h3>
 
-- 🔭 I’m currently working on [Hell-Shoes-React](https://github.com/luisotero00/Hell-Shoes-React)
+- 🔭 I’m currently working on [Hell-Shoes-React](https://github.com/luisotero00/)
 
 - 🌱 I’m currently learning **ReactJS**
 
